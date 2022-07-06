@@ -8,7 +8,7 @@ I like to learn more about programming with different languages and all there is
 - 🚀 I’m studying Computer Science at [Hochschule Karlsruhe – University of Applied Sciences (HKA)](https://www.h-ka.de/en)
 - 🔭 I’m currently working on some addons for the game Garry's Mod and on mainting my GitHub repositories
 - 🌱 I’m currently learning more about programming in Lua and Java
-- 📫 How to reach me: mexikoedi@outlook.de
+- 📫 How to reach me: mexikoedi@outlook.com
 - 📝 Check out my portfolio: https://mexikoedi.github.io
 
 #### My statistics:
