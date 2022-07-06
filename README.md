@@ -11,7 +11,7 @@ I like to learn more about programming with different languages and all there is
 - 📫 How to reach me: contact@mexikoedi.de
 - 📝 Check out my portfolio: https://mexikoedi.github.io
 
-##### My statistics:
+#### My statistics:
 
 ![](https://github-readme-stats.vercel.app/api?username=mexikoedi&show_icons=true&include_all_commits=true&theme=github_dark) 
 
