@@ -13,6 +13,6 @@ I like to learn more about programming with different languages and all there is
 
 #My statistics:
 
-GitHub stats: https://github-readme-stats.vercel.app/api?username=mexikoedi&show_icons=true&include_all_commits=true&theme=github_dark
+![GitHub stats:](https://github-readme-stats.vercel.app/api?username=mexikoedi&show_icons=true&include_all_commits=true&theme=github_dark)
 
-Most used languages: https://github-readme-stats.vercel.app/api/top-langs/?username=mexikoedi&langs_count=10&layout=compact&theme=github_dark
+![Most used languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=mexikoedi&langs_count=10&layout=compact&theme=github_dark)
